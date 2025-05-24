@@ -1,4 +1,4 @@
-# Simulador de Declaração de Imposto de Renda
+# Simulador de Declaração de Imposto de Renda Exel
 
 Este projeto é uma planilha interativa desenvolvida para auxiliar no preenchimento e simulação da declaração do Imposto de Renda para pessoas físicas. É especialmente útil para controlar e visualizar rendimentos, informes bancários e valores recebidos mensalmente.
 
